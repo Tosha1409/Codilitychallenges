@@ -1,4 +1,5 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
+  
 **Rubidium:**  
 *Rubidium2018.py*	- 100% score solution.  
 *Rubidium2018greedy.py* - greedy solutions 100% correct, but doesnt have optimal perfomance.  
