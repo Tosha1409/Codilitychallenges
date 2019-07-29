@@ -1,5 +1,5 @@
 #creating new element substring that including two other substrings [begining, end, lenght]
-def create_element (a,b,n):
+def create_element (a,b):
     e1=min(a[0],b[0])
     e2=max(a[1],b[1])
     return ([e1,e2,e2-e1+1])
@@ -19,7 +19,7 @@ def solution(S, K):
     while (x<=len(results)-1):
         if results[x][0]==-1: results.pop(x)
         else: 
-            results[x]=create_element(results[x],results[x],m)
+            results[x]=create_element(results[x],results[x])
             x += 1
     #searching result. first expections that doesnt needs counting
     if len(results)<K: n=-1
@@ -34,7 +34,7 @@ def solution(S, K):
             for y in range (0,len(results)-1):
                 localmin=[0,n-1,n] #full string/largest possible substring
                 for z in range(y+1,len(results)):
-                    element=create_element(results[y],results[z],n)
+                    element=create_element(results[y],results[z])
                     if element[2]<localmin[2]: localmin=element
                 tmp.append(localmin) #storing smallest possible sum of substrings
             results = tmp #storing results for next round
