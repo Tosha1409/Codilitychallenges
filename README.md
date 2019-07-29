@@ -10,5 +10,9 @@ Link to Rubidium2018.py at **Codility**: https://app.codility.com/demo/results/t
 Link to Strontium2019.py at **Codility**: https://app.codility.com/demo/results/trainingSDDBZZ-9DF/  
 
 **Yttrium:**  
-*Yttrium019.py* - 100% score solution.  
-Link to Yttrium2019.py at **Codility**: https://app.codility.com/demo/results/training2AVM24-SGB/
+*Yttrium2019.py* - 100% score solution.  
+Link to Yttrium2019.py at **Codility**: https://app.codility.com/demo/results/trainingKEVWMR-5X8/ 
+
+**Zirconium:**  
+*Zirconium2019.py* - 100% score solution.  
+Link to Zirconium.py at **Codility**: https://app.codility.com/demo/results/trainingQTHWS4-2UP/
