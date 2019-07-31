@@ -15,4 +15,8 @@ Link to Yttrium2019.py at **Codility**: https://app.codility.com/demo/results/tr
 
 **Zirconium:**  
 *Zirconium2019.py* - 100% score solution.  
-Link to Zirconium.py at **Codility**: https://app.codility.com/demo/results/trainingQTHWS4-2UP/
+Link to Zirconium2019.py at **Codility**: https://app.codility.com/demo/results/trainingQTHWS4-2UP/  
+
+**Niobium:**  
+*Niobium2019.py* - 100% score solution.  
+Link to Niobium2019.py at **Codility**: https://app.codility.com/demo/results/trainingAHF8XQ-A4H/
