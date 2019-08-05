@@ -1,5 +1,10 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
-  
+
+**Molibdenum**  
+*Molibdenum2019.py* - 100% score solution (Golden award).  
+Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certJZXNPQ-NMKYEZR3S5B9F4Q5/
+Silver Award Certificate at **Codility**: https://app.codility.com/cert/view/certVR7XBH-ZN89HT4NTT94XVMG/
+
 **Rubidium:**  
 *Rubidium2018.py*	- 100% score solution.  
 *Rubidium2018greedy.py* - greedy solutions 100% correct, but doesnt have optimal perfomance.  
