@@ -2,7 +2,7 @@ Solutions to Codility challenges (all of them was done on my own and i havent ch
 
 **Molibdenum**  
 *Molibdenum2019.py* - 100% score solution (Golden award).  
-Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certJZXNPQ-NMKYEZR3S5B9F4Q5/
+Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certJZXNPQ-NMKYEZR3S5B9F4Q5/  
 Silver Award Certificate at **Codility**: https://app.codility.com/cert/view/certVR7XBH-ZN89HT4NTT94XVMG/
 
 **Rubidium:**  
