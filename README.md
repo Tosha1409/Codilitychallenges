@@ -1,5 +1,9 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
 
+**Technetium:**  
+*Technetium2019.py* - 100% score solution (Golden award).  
+Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certNQ2Q9C-8JY35FPBWQTEYGUM/
+
 **Krypton:**  
 *Krypton2018.py*	- 100% score solution.  
 *Krypton2018_first.py* - 83% score solution. Original idea was keeping zeros with numbers, but amount of zeros can be growing to really big amounts, so calculations slowing down, and as a results 3 last perfomance tests was failed. In 100% score solution each element of array looks like [a,b], where is a - number, and b - amounts of zeros.  
