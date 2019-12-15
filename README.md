@@ -1,5 +1,9 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
 
+**Ruthenium 2019**
+*Ruthenium2019.py* - 100% score solution (Golden award).  
+Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/cert4QJC8Q-B7BD49NFNNBWEJPU/  
+
 **Technetium:**  
 *Technetium2019.py* - 100% score solution (Golden award).  
 Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certNQ2Q9C-8JY35FPBWQTEYGUM/
