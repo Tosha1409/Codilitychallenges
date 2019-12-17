@@ -1,5 +1,9 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
 
+**Germanium 2018**
+*Germanium2018.py* - 100% score solution.  
+Link to Germanium2018.py at **Codility**: https://app.codility.com/demo/results/trainingH3ASMT-5ZP/  
+
 **Ruthenium 2019**
 *Ruthenium2019.py* - 100% score solution (Golden award).  
 Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/cert4QJC8Q-B7BD49NFNNBWEJPU/  
