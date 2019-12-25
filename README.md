@@ -1,5 +1,9 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
 
+**Nickel**  
+*Nickel2018.py* - 100% score solution.  
+Link to Nickel2018.py at **Codility**: https://app.codility.com/demo/results/trainingTJYN4C-MKN/  
+
 **Bromum**  
 *Bromum2018.py* - 100% score solution.  
 Link to Germanium2018.py at **Codility**: https://app.codility.com/demo/results/trainingTQ7PN2-FKQ/  
