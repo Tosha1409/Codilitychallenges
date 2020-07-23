@@ -50,4 +50,10 @@ Link to Zirconium2019.py at **Codility**: https://app.codility.com/demo/results/
 
 **Niobium:**  
 *Niobium2019.py* - 100% score solution.  
-Link to Niobium2019.py at **Codility**: https://app.codility.com/demo/results/trainingAHF8XQ-A4H/
+Link to Niobium2019.py at **Codility**: https://app.codility.com/demo/results/trainingAHF8XQ-A4H/  
+
+**Palladium**  
+*Palladium2020gold.py* - 100% score solution (Golden award).  
+*Palladium2020silver.py* - 83% score solution (Silver award).  
+Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certSMB24J-H3PKP5XAJDPBNYQR/  
+Silver Award Certificate at **Codility**: https://app.codility.com/cert/view/certJ9W3T3-2W6J4D8K8TM59TWB/  
