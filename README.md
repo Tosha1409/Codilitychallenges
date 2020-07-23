@@ -1,5 +1,6 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
 
+## 2018
 **Nickel**  
 *Nickel2018.py* - 100% score solution.  
 Link to Nickel2018.py at **Codility**: https://app.codility.com/demo/results/trainingTJYN4C-MKN/  
@@ -26,6 +27,7 @@ Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/cer
 Link to Krypton2018_first.py at **Codility**: https://app.codility.com/demo/results/trainingA7DVHR-XQY/  
 Link to Krypton2018.py at **Codility**: https://app.codility.com/demo/results/training6N6GGK-V5Z/ 
 
+## 2019
 **Molibdenum**  
 *Molibdenum2019.py* - 100% score solution (Golden award).  
 Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certJZXNPQ-NMKYEZR3S5B9F4Q5/  
@@ -52,6 +54,7 @@ Link to Zirconium2019.py at **Codility**: https://app.codility.com/demo/results/
 *Niobium2019.py* - 100% score solution.  
 Link to Niobium2019.py at **Codility**: https://app.codility.com/demo/results/trainingAHF8XQ-A4H/  
 
+## 2020
 **Palladium**  
 *Palladium2020gold.py* - 100% score solution (Golden award).  
 *Palladium2020silver.py* - 83% score solution (Silver award).  
