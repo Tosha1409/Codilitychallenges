@@ -1,6 +1,16 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
 
+##
+
 ## 2020
+**The OLX Group challenge**  
+*OLX2020gold.py* - 100% score solution (Golden award).  
+Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certNH9KXR-KCB3SYAQZ2ZUU9PM/  
+
+**Silver**  
+*Silver2020.py* - 100% score solution.  
+Link to Silver2020.py at **Codility**: https://app.codility.com/demo/results/trainingEWP85T-GPK/  
+
 **Palladium**  
 *Palladium2020gold.py* - 100% score solution (Golden award).  
 *Palladium2020silver.py* - 83% score solution (Silver award).  
