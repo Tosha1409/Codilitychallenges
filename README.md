@@ -1,6 +1,10 @@
 Solutions to Codility challenges (all of them was done on my own and i havent checked other people solutions before i got done mine):  
 
 ## 2021
+**The Doge**  
+*TheDoge2021.py* - 100% score solution (Golden award).  
+Golden Award Certificate at **Codility**: https://app.codility.com/cert/view/certNA5XDN-SD2FZA8BFY77BFZ3/  
+
 **The Matrix**  
 *TheMatrix2021gold.py* - 100% score solution (Golden award).  
 *TheMatrix2021silver.py* - 76% score solution (Silver award).  
